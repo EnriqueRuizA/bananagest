@@ -10,7 +10,7 @@ import javax.servlet.http.HttpSession;
 
 import com.generation.jwd.p1.beans.TaskBean;
 
-@WebServlet("/createtask")
+//@WebServlet("/createtask")
 public class TaskServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
